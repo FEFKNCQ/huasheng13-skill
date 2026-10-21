@@ -1,11 +1,12 @@
 > **下载说明**
-> 推荐通过下方夸克网盘直链下载（含完整 release 文件，微信扫码或点链接即可），无需访问 GitHub：
+> 优先推荐从百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
+> **百度网盘**：https://pan.baidu.com/share/init?surl=QLBChvNSZMj9i_UvKwEoUQ&pwd=qu5d
+>
 > **夸克网盘**：https://pan.quark.cn/s/67da687ab3ef
 >
 > 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/huasheng13-skill/releases) 下载。
 
 
-> **分支声明（Fork notice）**
 MIT License © [WangJunqing-coder](https://github.com/WangJunqing-coder)
 MIT License © [WangJunqing-coder](https://github.com/WangJunqing-coder)
 MIT License © [WangJunqing-coder](https://github.com/WangJunqing-coder)
